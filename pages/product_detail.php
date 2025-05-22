@@ -89,7 +89,7 @@ $cart_count = getCartItemCount();
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
-                    <li class="nav-item"><a class="nav-link" href="index.php">Accueil</a></li>
+                    <li class="nav-item"><a class="nav-link" href="../dist/index.php">Accueil</a></li>
                     <li class="nav-item"><a class="nav-link" href="#!">À propos</a></li>
                     <li class="nav-item"><a class="nav-link" href="cart.php">Mon Panier</a></li>
                 </ul>
