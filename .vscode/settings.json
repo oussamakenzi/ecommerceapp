@@ -13,5 +13,6 @@
             "database": "gestion_de_stock",
             "username": "root"
         }
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
