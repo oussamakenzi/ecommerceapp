@@ -292,7 +292,7 @@ $cart_count = getCartItemCount();
                                 <!-- Actions -->
                                 <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
                                     <div class="text-center">
-                                        <a class="btn btn-outline-dark btn-sm" href="product_detail.php?id=<?= $similaire['id'] ?>">
+                                        <a class="btn btn-outline-dark btn-sm" href="../pages/product_detail.php?id=<?= $similaire['id'] ?>">
                                             Voir le produit
                                         </a>
                                     </div>

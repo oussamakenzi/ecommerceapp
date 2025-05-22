@@ -20,9 +20,9 @@ $cart_count = getCartItemCount();
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container px-4 px-lg-5">
-            <a class="navbar-brand" href="shop.php">Ma Boutique</a>
+            <a class="navbar-brand" href="../pages/shop.php">Ma Boutique</a>
             <div class="navbar-nav ms-auto">
-                <a class="nav-link" href="shop.php">Continuer mes achats</a>
+                <a class="nav-link" href="../pages/shop.php">Continuer mes achats</a>
             </div>
         </div>
     </nav>
